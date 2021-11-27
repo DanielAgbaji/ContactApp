@@ -9,4 +9,4 @@ This is a Prisma and Next.js demo presented at Prisma Serverless Conf. To get th
 5. Add the Prisma data proxy using their official docs
 6. Deploy on [Vercel](https://vercel.com/) and add environment variables
 
-To view the demo without the Prisma Data Proxy, go [here](https://github.com/Nutlope/nextjs-prisma-demo).
+To view the demo without the Prisma Data Proxy, go [here](https://github.com/DanielAgbaji/ContactApp).
