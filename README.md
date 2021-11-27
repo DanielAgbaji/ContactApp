@@ -1,4 +1,4 @@
-# Prisma Data Proxy and Next.js Demo
+# ContactApp Built Using Prisma Data Proxy and Next.js
 
 This is a Prisma and Next.js demo presented at Prisma Serverless Conf. To get this working, make sure to:
 
