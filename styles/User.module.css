@@ -1,0 +1,24 @@
+.container {
+  border: 1px solid lightgray;
+  border-radius: 15px;
+  margin: 4px;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  margin: 0px 3px 0px 10px;
+  border-radius: 50%;
+}
+
+.name {
+  margin: 10px;
+  color: #0f7ef1;
+}
+
+.email {
+  font-size: 11px;
+  color: grey;
+  margin-top: 5px;
+}
