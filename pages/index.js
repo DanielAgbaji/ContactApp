@@ -44,11 +44,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Contactz</title>
+        <title>ContactApp</title>
         <meta name="description" content="A minimalistic contacts app" />
       </Head>
       <header>
-        <h2 className={styles.logo}>Contactz</h2>
+        <h2 className={styles.logo}>ContactApp</h2>
         <hr className={styles.hr} />
       </header>
       <div className={styles.container}>
