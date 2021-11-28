@@ -8,7 +8,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = "prisma://aws-us-east-1.prisma-data.com/?api_key=KdQa8kBCF2gLxff6gBw8HWPxGLoQBjp1YhOCFhLwnpzzJVgDDmQ6OYo1rdp14XhD"
+  url      = env("DATABASE_URL")
 }
 model Contact {
   id        String @id @default(cuid())
