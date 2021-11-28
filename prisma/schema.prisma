@@ -8,7 +8,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env.example("DATABASE_URL")
+  url      = env("DATABASE_URL")
 }
 model Contact {
   id        String @id @default(cuid())
